@@ -1,3 +1,6 @@
+
+
+![Venzo](https://venzotechnologies.com/assets/venzo_logo.webp)
 ## Welcome Note 
 
 Welcome to the Venzo team! This document serves as a comprehensive guide to essential tools and resources that our team uses to manage, develop, and collaborate on projects. Whether you're an onboarding team member just getting started or an existing team member looking to refresh your knowledge, this guide will help you navigate the tools and systems we work with.
