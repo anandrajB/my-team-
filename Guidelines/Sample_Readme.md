@@ -33,10 +33,9 @@ $ command to run the server
 
 
 
-[Postman Collection](https://api.postman.com/collections/11858287-1cea77a5-1645-4b0c-83fc-d0d7c74d99a7?access_key=PMAT-01J7B5JTSFJE1NQMY0GAS4D0B3)
+[Postman Collection](https://google.com)
 
-
-[DB diagram](https://dbdiagram.io/d/TFM-66ea99e0a0828f8aa63b7bda)
+[DB diagram](https://dbdiagram.io/d/url)
 
 ## User Type
 
