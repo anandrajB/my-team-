@@ -5,7 +5,7 @@
 
 Welcome to the Venzo team! This document serves as a comprehensive guide to essential tools and resources that our team uses to manage, develop, and collaborate on projects. Whether you're an onboarding team member just getting started or an existing team member looking to refresh your knowledge, this guide will help you navigate the tools and systems we work with.
 
-Our team is dedicated to delivering high-quality products and services, and utilizing these tools efficiently will play a key role in achieving that goal. As you settle in, it's important to familiarize yourself with the tools listed here, as they are central to our workflow, communication, and development practices.
+Our team is dedicated to delivering high-quality products and services, and utilizing these tools efficiently will play a key role in achieving that goal. As you settle in, it's important to familiarize yourself with the tools , patterns listed in this folder, as they are central to our workflow, communication, and development practices.
 
 ##  Getting Started
 
@@ -34,6 +34,18 @@ By keeping this guide in mind, you will have the resources needed to be successf
 
 
 
+## IMPORTANT NOTES
+## Non-Disclosure Agreement (NDA)
+As part of our commitment to protecting sensitive information and ensuring the security of our intellectual property, all team members are required to adhere to the terms outlined in the Non-Disclosure Agreement (NDA). The NDA serves as a binding contract between you and the company, ensuring that confidential and proprietary information remains protected at all times.
 
+By accessing and using the tools and resources listed in this guide, you agree to the following:
+
+**Confidentiality**: You will not disclose, share, or use any confidential information, including but not limited to product data, customer information, and proprietary code, without proper authorization. This includes information learned through internal documentation, project materials, or personal communications.
+
+**Data Protection**: You are responsible for maintaining the security of any sensitive or confidential data you have access to and will take reasonable measures to protect it from unauthorized access, misuse, or loss.
+
+**Use of Company Resources**: Company tools, accounts, and resources are to be used solely for company-related purposes. Personal use of company resources, including software, servers, and email accounts, is prohibited.
+
+**Termination of Access**: Upon termination of your employment, you are required to immediately return or destroy any company resources, including documentation, software, and sensitive data that you may have retained during your employment. Your obligation to maintain confidentiality continues even after leaving the company.
 
 
