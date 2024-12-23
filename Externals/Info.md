@@ -43,6 +43,7 @@
 - Web Performance Testing - https://gtmetrix.com/
 - Email Testing - https://mailtrap.io/
 - Regular Expressions Editor - https://regex101.com/
+- Image Shields - https://github.com/inttter/md-badges
 --- 
 ### APP TESTING
 - UI Testing - https://www.selenium.dev/
