@@ -19,7 +19,7 @@
 --- 
 ### VERSION CONTROL
 - Version Control Hosting - https://github.com/
-- Online IDE - https://codesandbox.io/
+
 --- 
 ### DESIGN & PROTOTYPING
 - Prototyping and Design - https://www.figma.com/
@@ -73,7 +73,10 @@
 --- 
 
 ### IDE & CODE EDITOR
+- VS code - https://code.visualstudio.com/
+- Code Screen shot in vs code - https://marketplace.visualstudio.com/items?itemName=adpyke.codesnap
 - Cloud IDE - https://www.gitpod.io/
+- Online IDE - https://codesandbox.io/
 - Font Resources - https://fonts.google.com/
 - Project IDX - https://www.idx.dev/
 - Dependency Management - https://github.com/dependabot
