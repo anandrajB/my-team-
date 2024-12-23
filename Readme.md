@@ -49,3 +49,12 @@ By accessing and using the tools and resources listed in this guide, you agree t
 **Termination of Access**: Upon termination of your employment, you are required to immediately return or destroy any company resources, including documentation, software, and sensitive data that you may have retained during your employment. Your obligation to maintain confidentiality continues even after leaving the company.
 
 
+
+
+
+## SUPPORT 
+
+- sivagamasundari@venzotechnologies.com [AVP Process & Delivery]
+- raja@venzotechnologies.com [Senior Project Manager]
+- vasanth@venzotechnologies.com [Technical Architect]
+- elamparithi@venzotechnologies.com [Technical Lead]
