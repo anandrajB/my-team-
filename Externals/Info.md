@@ -35,6 +35,7 @@
 - Container Orchestration - https://kubernetes.io/
 - Code Formatting - https://prettier.io/
 - CI/CD Dashboard - https://circleci.com/
+- Refactoring - https://refactoring.guru/
 
 --- 
 ### APP LIFECYCLE MANAGEMENT
